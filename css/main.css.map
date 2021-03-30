@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "AEAA,AAAA,OAAO,CAAC;EACN,gBAAgB,EAAE,OAAO;CAC1B;;ACFD,AAAA,OAAO,CAAC;EACN,gBAAgB,EAAE,OAAO;CAC1B",
+    "sources": [
+        "../sass/base/main.scss",
+        "../sass/utils/_vars.scss",
+        "../sass/components/_heder.scss",
+        "../sass/components/_footer.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
